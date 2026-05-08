@@ -1,7 +1,7 @@
 # autofilter
 Automatic editing program for aviation photography
 
-#### Place the script and XML file into a directory that also contains a source and destination folder. Do not place the script or XML file into the source or destination folder directly, as it will not work if you do.
+#### Place the script/executable and XML file into a directory that also contains a source and destination folder. Do not place the script/executable or XML file into the source or destination folder directly, as it will not work if you do. The XML file contains the Haar cascade classifier and must be placed in the same directory as the script/executable.
 
 #### On execution, the script asks for three things:
 
