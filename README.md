@@ -12,3 +12,5 @@ Destination File Path: the folder to put images into
 Desired Aspect Ratio: the aspect ratio of the edited images. Some common landscape examples are 4:3 and 16:9, but any two positive integers are acceptable. Use either ':' or '/' as a delimiter, i.e. 1:1 or 1/1 for a square image.
 
 #### Folder names should just be the folder names as they appear in the directory, do not enter the full filepath.
+
+The Haar cascade classifier used for this project was sourced from GitHub user eeftychiou at https://github.com/eeftychiou/airplane-detection
