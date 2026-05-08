@@ -9,6 +9,6 @@ Source File Path: the folder to source images from
 
 Destination File Path: the folder to put images into
 
-Desired Aspect Ratio: the aspect ratio of the edited images. Some common ones are 1:1, 4:3, and 16:9, but any two positive integers are acceptable.
+Desired Aspect Ratio: the aspect ratio of the edited images. Some common landscape examples are 4:3 and 16:9, but any two positive integers are acceptable. Use either ':' or '/' as a delimiter, i.e. 1:1 or 1/1 for a square image.
 
 #### Folder names should just be the folder names as they appear in the directory, do not enter the full filepath.
