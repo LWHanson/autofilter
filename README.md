@@ -1,7 +1,7 @@
 # autofilter
 Automatic editing program for aviation photography
 
-#### Place the executable or script into a directory that also contains a source and destination folder. Do not place the executable into the source or destination folder directly, as it will not work if you do.
+#### Place the script and XML file into a directory that also contains a source and destination folder. Do not place the script or XML file into the source or destination folder directly, as it will not work if you do.
 
 #### On execution, the script asks for three things:
 
